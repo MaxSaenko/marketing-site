@@ -144,7 +144,7 @@ a {
     background-image: url('../images/header-bg.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    box-sizing: cover;
+    background-cover: cover;
     font-family: 'Montserrat', sans-serif;
 }
 
